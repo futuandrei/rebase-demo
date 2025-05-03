@@ -1,1 +1,7 @@
 Hello from main
+<<<<<<< HEAD
+new update on main
+=======
+readme
+another change
+>>>>>>> f020ce7 (file.txt another change)
